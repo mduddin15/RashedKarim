@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45a6ec1d-a7c1-4819-a5ba-e7951ac73a61" name="Changes" comment="">
+    <list default="true" id="45a6ec1d-a7c1-4819-a5ba-e7951ac73a61" name="Changes" comment="first update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics/SameNameThreeMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/SameNameThreeMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics/SameNameTwoMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/SameNameTwoMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConstructorAndObject/Pmis/MyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConstructorAndObject/Pmis/MyDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConstructorAndObject/Pmis/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConstructorAndObject/Pmis/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConstructorAndObject/Root/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConstructorAndObject/Root/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindTheOutPut/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindTheOutPut/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindTheOutPut/Derived.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindTheOutPut/Derived.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindTheOutPut/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindTheOutPut/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Vehicles/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Vehicles/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Vehicles/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Vehicles/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Vehicles/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Vehicles/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SetterGetter/Pmis/MyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SetterGetter/Pmis/MyDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SetterGetter/Pmis/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SetterGetter/Pmis/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SetterGetter/Root/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SetterGetter/Root/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +123,18 @@
       <option name="presentableId" value="Default" />
       <updated>1699024225473</updated>
     </task>
+    <task id="LOCAL-00001" summary="first update">
+      <created>1699303367179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699303367179</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first update" />
+    <option name="LAST_COMMIT_MESSAGE" value="first update" />
   </component>
 </project>
